@@ -2,8 +2,8 @@
 
 Desafio do Bootcamp Órbi Web Games Developer, na plataforma Dio.me
 
-Neste curso, eu estou aprendendo a desenvolver o famoso jogo da velha, com o instrutor Vitor Ruschoni.
+Neste curso, eu desenvolvi o famoso jogo da velha, com o instrutor Vitor Ruschoni.
 
-Para desenvolver esse jogo, eu estou utilizando HTML5, CSS3 e JavaScript.
+Para desenvolver esse jogo, eu utilizei HTML5, CSS3 e JavaScript.
 
-Este projeto foi iniciado por volta do dia 09/04/2022, mas ainda está em desenvolvimento, mas em breve espero trazer novidades para este repositório.
+Este projeto foi finalizado por volta do dia 15/04/2022.
